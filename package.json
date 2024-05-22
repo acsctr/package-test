@@ -1,5 +1,5 @@
 {
-  "name": "@acsctr/package-test",
+  "name": "package-test",
   "version": "1.0.0",
   "description": "Repo de test de Github Packages",
   "main": "index.js",
@@ -7,5 +7,9 @@
     "test": "exit 0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/acsctr/package-test.git"
+  }
 }
