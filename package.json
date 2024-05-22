@@ -1,5 +1,5 @@
 {
-  "name": "package-test",
+  "name": "acsctr-package-test",
   "version": "1.0.0",
   "description": "Repo de test de Github Packages",
   "main": "index.js",
